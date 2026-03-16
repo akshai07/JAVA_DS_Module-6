@@ -1,7 +1,7 @@
 # Ex2 Count how many times a number appears in an array recursively.
 # Developed by: AKSHAI KHANNA D
 # RegisterNumber: 212223040010
-## DATE: 24/03/26
+## DATE: 24/03/2026
 ## AIM:
 To write a Java program to Count how many times a number appears in an array recursively.
 
